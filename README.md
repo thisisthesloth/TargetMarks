@@ -27,3 +27,5 @@ TargetMarks tries several detection methods in order of reliability: your curren
 1. Download or clone this repository.
 2. Copy the `TargetMarks` folder into your `Interface/AddOns` directory.
 3. Restart or reload your game client, and enable TargetMarks at the character select AddOns screen.
+
+<img width="720" height="559" alt="Example" src="https://github.com/user-attachments/assets/ffcdbf41-0e8a-4325-b36c-445b6de32edb" />
