@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: TargetMarks
+## Notes: Click a raid mark icon to target whichever unit currently has it.
+## Author: thisisthesloth
+## Version: 1.0
+## SavedVariables: TargetMarksDB
+
+TargetMarks.lua
